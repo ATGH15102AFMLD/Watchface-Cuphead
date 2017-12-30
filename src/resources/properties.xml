@@ -1,0 +1,8 @@
+<properties>
+	<property id="ActivityType" type="number">0</property>
+	<property id="DateFormat" type="number">0</property>
+	<property id="BackgroundColor" type="number">0xFFAA00</property>
+	<property id="ForegroundColor" type="number">0x000000</property>
+	<property id="CustomBackgroundColor" type="string"></property>
+	<property id="CustomForegroundColor" type="string"></property>
+</properties>

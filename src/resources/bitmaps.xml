@@ -1,0 +1,49 @@
+<resources>
+	<bitmap id="LauncherIcon" filename="images/launcher_icon.png" />
+	<!-- Cuphead -->
+	<bitmap id="Cuphead_0" filename="images/cuphead_0.gif">
+			<palette disableTransparency="false">
+			<color>FFFFFF</color>
+			<color>000000</color>
+			<color>FF5500</color>
+			<color>AA0000</color>
+			<color>AAAAAA</color>
+		</palette>
+	</bitmap>
+	<bitmap id="Cuphead_1" filename="images/cuphead_1.gif">
+			<palette disableTransparency="false">
+			<color>FFFFFF</color>
+			<color>000000</color>
+			<color>FF5500</color>
+			<color>AA0000</color>
+			<color>AAAAAA</color>
+		</palette>
+	</bitmap>
+	<bitmap id="Cuphead_2" filename="images/cuphead_2.gif">
+			<palette disableTransparency="false">
+			<color>FFFFFF</color>
+			<color>000000</color>
+			<color>FF5500</color>
+			<color>AA0000</color>
+			<color>AAAAAA</color>
+		</palette>
+	</bitmap>
+	<bitmap id="Cuphead_3" filename="images/cuphead_3.gif">
+			<palette disableTransparency="false">
+			<color>FFFFFF</color>
+			<color>000000</color>
+			<color>FF5500</color>
+			<color>AA0000</color>
+			<color>AAAAAA</color>
+		</palette>
+	</bitmap>
+	<bitmap id="Cuphead_4" filename="images/cuphead_4.gif">
+			<palette disableTransparency="false">
+			<color>FFFFFF</color>
+			<color>000000</color>
+			<color>FF5500</color>
+			<color>AA0000</color>
+			<color>AAAAAA</color>
+		</palette>
+	</bitmap>
+</resources>

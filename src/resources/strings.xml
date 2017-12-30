@@ -1,0 +1,52 @@
+<strings>
+	<string id="AppName">Cuphead</string>
+
+	<!-- Titles -->
+	<string id="ActivityTypeTitle">Activity Type</string>
+	<string id="DateFormatTitle">Date Format</string>
+	<string id="BackgroundColorTitle">Background Color</string>
+	<string id="ForegroundColorTitle">Foreground Color</string>
+	<string id="CustomBackgroundColorTitle">Custom Background Color</string>
+	<string id="CustomForegroundColorTitle">Custom Foreground Color</string>
+	<!-- Prompts -->
+	<string id="ActivityTypePrompt"></string>
+	<string id="BackgroundColorPrompt">Background color</string>
+	<string id="ForegroundColorPrompt">Text and symbols color</string>
+	<string id="CustomColorPrompt">Use hex color codes, eg FF0000 for red</string>
+	<!-- Errors -->
+	<!-- BackgroundCustomColorError and ForegroundColorError equals CustomColorPrompt -->
+
+	<!-- Date Formats -->
+	<string id="DateFormatNone">None</string>
+	<string id="DateFormatDDdotMM">31.1</string>
+	<string id="DateFormatMMdotDD">1.31</string>
+	<string id="DateFormatDD_MMM">31 Jan</string>
+
+	<!-- Colors -->
+	<string id="ColorWhite">White</string>
+	<string id="ColorLightGray">Light Gray</string>
+	<string id="ColorDarkGray">Dark Gray</string>
+	<string id="ColorBlack">Black</string>
+	<string id="ColorRed">Red</string>
+	<string id="ColorDarkRed">Dark Red</string>
+	<string id="ColorOrange">Orange</string>
+	<string id="ColorYellow">Yellow</string>
+	<string id="ColorGreen">Green</string>
+	<string id="ColorDarkGreen">Dark Green</string>
+	<string id="ColorCyan">Cyan</string>
+	<string id="ColorBlue">Blue</string>
+	<string id="ColorPurple">Purple</string>
+	<string id="ColorPink">Pink</string>
+	<string id="ColorCustom">Custom</string>
+
+	<!-- Activity Types -->
+	<string id="ActivityTypeSteps">Steps</string>
+	<string id="ActivityTypeStepsPercentage">Steps %</string>
+	<string id="ActivityTypeStepsLeft">Steps Left</string>
+	<string id="ActivityTypeFloors">Floors climbed</string>
+	<string id="ActivityTypeHR">HR</string>
+	<string id="ActivityTypeCalories">Calories</string>
+	<string id="ActivityTypeDistance">Distance</string>
+	<string id="ActivityTypeMoveBar">Move Bar</string>
+	<string id="DeviceBattery">Battery %</string>
+</strings>
