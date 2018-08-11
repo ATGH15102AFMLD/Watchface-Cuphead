@@ -9,7 +9,6 @@
 	<string id="CustomBackgroundColorTitle">Custom Background Color</string>
 	<string id="CustomForegroundColorTitle">Custom Foreground Color</string>
 	<!-- Prompts -->
-	<string id="ActivityTypePrompt"></string>
 	<string id="BackgroundColorPrompt">Background color</string>
 	<string id="ForegroundColorPrompt">Text and symbols color</string>
 	<string id="CustomColorPrompt">Use hex color codes, eg FF0000 for red</string>
