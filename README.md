@@ -1,6 +1,11 @@
+[![MonkeyC](https://img.shields.io/badge/Monkey-C-blue.svg)](https://developer.garmin.com/connect-iq/monkey-c/)
+[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/ATGH15102AFMLD/Watchface-Cuphead/blob/master/LICENSE)
+
 What is Cuphead watchface ?
 ===============================
 Watchface for Garmin wearable devices, its use is governed by MIT License.
+
+![Preview](https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/96911458-fecc-4893-910e-9f5dd1be23d3/icon/389c24e3-d9f7-4399-a1d9-a47d18727396)
 
 Description
 -------------------------------
